@@ -1,12 +1,12 @@
-# jjasghar.me
+# rmoff.info
 
 This is my "links page" because I needed one, and wasn't going to pay for it. :metal:.
 
 ## License & Authors
 
-If you would like to see the detailed LICENSE click [here](./LICENSE).
+Thanks to JJ Asghar <jjasghar@gmail.com> for creating this. I just forked his repo :)
 
-- Author: JJ Asghar <jjasghar@gmail.com>
+If you would like to see the detailed LICENSE click [here](./LICENSE).
 
 ```text
 Copyright:: 2022- JJ Asghar
