@@ -1,0 +1,23 @@
+{
+    "aliases": [
+        "https://data-folks.masto.host/@rmoff",
+        "https://data-folks.masto.host/users/rmoff"
+    ],
+    "links": [
+        {
+            "href": "https://data-folks.masto.host/@rmoff",
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html"
+        },
+        {
+            "href": "https://data-folks.masto.host/users/rmoff",
+            "rel": "self",
+            "type": "application/activity+json"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://data-folks.masto.host/authorize_interaction?uri={uri}"
+        }
+    ],
+    "subject": "acct:rmoff@data-folks.masto.host"
+}
